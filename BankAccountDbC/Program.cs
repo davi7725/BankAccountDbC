@@ -10,6 +10,14 @@ namespace BankAccountDbC
     {
         static void Main(string[] args)
         {
+            new Program().Run();
+        }
+
+        private void Run()
+        {
+            Account acc = new Account("Jane", 100);
+            acc.Deposit(1);
+            acc.Withdraw(-1);
         }
     }
 }
