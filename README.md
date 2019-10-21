@@ -12,6 +12,7 @@ This application contains an [Account](https://github.com/davi7725/BankAccountDb
 - Instantiating a new Account class
   - **Rules:**
     - the start amount should always be positive
+    - the name of the account should not be empty
 
 Additionally, [Program class](https://github.com/davi7725/BankAccountDbC/blob/master/BankAccountDbC/Program.cs) makes use of **Account.cs** and it also demonstrates the use of Code Contracts that enforce Design by Contract principles.
 
