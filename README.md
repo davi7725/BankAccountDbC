@@ -32,15 +32,16 @@ Once you are done with the above, in VS you would need to:
   - untick **Cache results** 
   - set **Warning Level** to high 
   - **Save**
-
-- By **Build**ing - incorrect param values should get squiggly lines
-
-- Into **Task List** window you would be able to see the warnings that were generated
   
 <h4 align="center">As shown in the picture below:</h4>
 <p align="center">
 <img height="500" src="https://user-images.githubusercontent.com/21998037/67195330-0ce12a00-f3f9-11e9-8a5c-a6a768472a20.png">
 </p>
+
+
+- By **Build**ing - incorrect param values should get squiggly lines
+
+- Into **Task List** window you would be able to see the warnings that were generated
 
 </br>
 
